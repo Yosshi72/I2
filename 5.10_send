@@ -1,0 +1,1 @@
+nc -lu 5000 | play -t raw -r 44100 -b 16 -c 1 -e s -
